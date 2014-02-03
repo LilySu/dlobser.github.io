@@ -1,0 +1,7 @@
+/.awestruct/
+/.sass-cache/
+/_site/
+/_layouts/
+/_posts/
+Gemfile.lock
+LINES

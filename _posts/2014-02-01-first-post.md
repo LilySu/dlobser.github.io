@@ -8,13 +8,19 @@ last_updated: 2010-10-07
 img: http://25.media.tumblr.com/9a01a825de19282356a9c484fb2deef8/tumblr_n027vq3tXo1t3td7to1_1280.jpg
 ---
 
-
+<div style="text-align:center">
 <img src="../../../../images/swipe/swirls.jpg"
-width=700px>
+width=700px><br>
+<br>
+|<br>
+V
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
 <img src="http://25.media.tumblr.com/9a01a825de19282356a9c484fb2deef8/tumblr_n027vq3tXo1t3td7to1_1280.jpg"
 width=700px>
 
-
+<br><br><br><br><br><br>
 
 The miller's wife had waited long,<br>
       The tea was cold, the fire was dead;<br>
@@ -24,6 +30,7 @@ And there might yet be nothing wrong<br>
       Was all that she had heard him say;<br>
 And he had lingered at the door<br>
       So long that it seemed yesterday.<br>
+      <br><br><br><br><br><br>
 
 <img src="../../../../images/swipe/carlos-11.jpg"
 width=600px>
@@ -38,7 +45,7 @@ width=300px style="float:left">
 <img src="../../../../images/swipe/limitedMoth.jpg"
 width=600px>
 
-
+<br><br><br><br><br><br>
 
 Sick with a fear that had no form<br>
       She knew that she was there at last;<br>
@@ -49,7 +56,7 @@ What else there was would only seem<br>
 And what was hanging from a beam<br>
       Would not have heeded where she went.<br>
 
-
+<br><br><br><br><br><br>
 <img src="../../../../images/swipe/wisp.jpg"
 width=800px>
 <img src="../../../../images/swipe/mothFlood.jpg"
@@ -58,7 +65,7 @@ width=800px>
 width=800px>
 <img src="../../../../images/swipe/nightdots.jpg"
 width=800px>
-
+<br><br><br><br><br><br>
 
 And if she thought it followed her,<br>
       She may have reasoned in the dark<br>
@@ -68,6 +75,7 @@ Black water, smooth above the weir<br>
       Like starry velvet in the night,<br>
 Though ruffled once, would soon appear<br>
       The same as ever to the sight.<br>
+      <br><br><br><br><br><br>
 
 <img src="../../../../images/swipe/sparkles.jpg"
 width=800px>
