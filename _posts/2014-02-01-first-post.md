@@ -7,7 +7,8 @@ tags: [first, post, jekyll, rocks]
 last_updated: 2010-10-07
 img: http://25.media.tumblr.com/9a01a825de19282356a9c484fb2deef8/tumblr_n027vq3tXo1t3td7to1_1280.jpg
 ---
-
+<div class="col-md-12"></div>
+  <div class="col-md-8">    
 <div style="text-align:center">
 <img src="../../../../images/swipe/swirls.jpg"
 width=700px><br>
@@ -84,5 +85,7 @@ width=800px>
 <img src="../../../../images/swipe/pole.jpg"
 width=800px>
 
+</div>
+</div>
 
 

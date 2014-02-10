@@ -12,10 +12,10 @@ tags: first second
   {% for post in site.posts limit: 5 %}
 
  
-      <a href="{{ post.url }}">
+      <a href="{{ post.url }}"><br>
         <img src={{post.img}} width="600"><br>
         {{ post.title }}</a><br>
-         {{ post.description }}
+         {{ post.description }}<br>
    
   {% endfor %}
 </ul>
