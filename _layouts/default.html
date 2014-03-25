@@ -2,18 +2,42 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+   
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+        <link href='http://fonts.googleapis.com/css?family=Codystar:300' rel='stylesheet' type='text/css'>
+
     <style>
       #mainBoxFull img { display: block; }
       #mainBoxFull{ font-size:0; }
       img{
         padding:0;
       }
+      #title{
+        /*font-family: 'Roboto', sans-serif;*/
+        font-family: 'Codystar', cursive;
+        font-size:4em;
+      }
+      #black{
+        background-color:black;
+      }
+      .col-centered{
+          float: none;
+          margin: 0 auto;
+      }
+      .center-block {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      a:link {color:#999999;}      /* unvisited link */
+      a:visited {color:#999999;}  /* visited link */
+      a:hover {color:#FFFFFF !important; text-decoration:none !important;}  /* mouse over link */
+      a:active {color:#0000FF;}  /* selected link */
     </style>
     <title>Moths</title>
 
@@ -32,11 +56,18 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-  </head>
+  </head> <script type="text/javascript">
+    $(document).bind(
+      'touchmove',
+      function(e) {
+        e.preventDefault();
+      }
+    );
+    </script>
 
-  <body>
+  <body style="background-color:black;color:#bbbbbb">
 
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background-color:black">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -45,8 +76,9 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">Home</a>
-          <a class="navbar-brand" href="/blog">Blog</a>
+          <a class="navbar-brand" href="/" style="font-family:Codystar">Home</a>
+          <a class="navbar-brand" href="/blog" style="font-family:Codystar;font-size:1em">Blog</a>
+          <a class="navbar-brand" href="/about" style="font-family:Codystar">About</a>
         </div>
         <div class="navbar-collapse collapse">
 
@@ -55,18 +87,11 @@
     </div>
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
       <div class="container">
         <br><br>
         {{content}}
-        </div>
-      </div>
 
-      <hr>
-
-      <footer>
-        <p></p>
-      </footer>
+     
     </div> <!-- /container -->
 
 
